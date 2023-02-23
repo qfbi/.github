@@ -51,5 +51,6 @@ git  pull --rebase origin develop
 
 # Как перейти с GitLab на GitHub
 ``` bash
-git remote set-url origin https://github.com/qfbi/back.git
+# <> - значок подстановки (это значит, что их не нужно писать)
+git remote set-url origin <ссылка на новый репозиторий в GitHub'е>
 ```
